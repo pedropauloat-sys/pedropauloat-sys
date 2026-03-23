@@ -48,8 +48,9 @@ Profissional multidisciplinar na interseção entre **Engenharia de Software, Ci
   <img src="https://github-readme-stats.vercel.app/api?username=pedropauloat-sys&show_icons=true&theme=dark&rank_icon=github&icon_color=00F9F0&text_color=FFFFFF&title_color=00F9F0&bg_color=050a15" />
 </picture>
 
-## 🏆 Projeto Destaque:
+## 🏆 Projetos em Destaque:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedropauloat-sys&repo=chatwoot-participating-inbox&theme=dark&bg_color=050a15&title_color=00F9F0&icon_color=00F9F0&text_color=FFFFFF)](https://github.com/pedropauloat-sys/chatwoot-participating-inbox)
+[![Buttons Manager](https://github-readme-stats.vercel.app/api/pin/?username=pedropauloat-sys&repo=chatwoot-custom-button-builder&theme=dark&bg_color=050a15&title_color=00F9F0&icon_color=00F9F0&text_color=FFFFFF)](https://github.com/pedropauloat-sys/chatwoot-custom-button-builder)
+[![Participating Inbox](https://github-readme-stats.vercel.app/api/pin/?username=pedropauloat-sys&repo=chatwoot-participating-inbox&theme=dark&bg_color=050a15&title_color=00F9F0&icon_color=00F9F0&text_color=FFFFFF)](https://github.com/pedropauloat-sys/chatwoot-participating-inbox)
 
 <img width="100%" src="./matrix-banner.svg"/>
