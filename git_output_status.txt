@@ -1,0 +1,11 @@
+No ramo main
+O seu branch e 'origin/main' divergiram-se,
+e cada um tem 2 e 3 submissões, respectivamente.
+  (use "git pull" if you want to integrate the remote branch with yours)
+
+Arquivos não monitorados:
+  (utilize "git add <arquivo>..." para incluir o que será submetido)
+	git_output_log.txt
+	git_output_status.txt
+
+nada adicionado ao envio mas arquivos não registrados estão presentes (use "git add" to registrar)

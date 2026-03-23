@@ -1,0 +1,5 @@
+commit 336972c9d08a318771708b60705367650109e444
+Author: Pedro Paulo <pedropaulotannus@gmail.com>
+Date:   Mon Mar 23 16:10:17 2026 -0300
+
+    docs: add React, Node.js and JSON badges to README
