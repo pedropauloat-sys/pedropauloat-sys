@@ -4,6 +4,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F9F0&size=42&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+o+Pedro!+👋🏻;Desenvolvedor+e+Especialista+em+Automação;Criador+de+Soluções+Inovadoras" alt="Typing SVG" /></a>
 </div>
 
+## ✉️ Contatos:
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-paulo-andrade-tannus/)
+[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedropaulotannus29@gmail.com)
+
 ## 🚀 Sobre Mim
 
 Profissional multidisciplinar na interseção entre **Engenharia de Software, Cibersegurança e Negócios**. Experiência no ciclo completo de desenvolvimento e com forte foco em SecOps e automação de processos. Vivência com infraestrutura em nuvem, gestão comercial e liderança de equipes.
@@ -47,7 +52,4 @@ Profissional multidisciplinar na interseção entre **Engenharia de Software, Ci
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=pedropauloat-sys&repo=chatwoot-participating-inbox&theme=dark&bg_color=050a15&title_color=00F9F0&icon_color=00F9F0&text_color=FFFFFF)](https://github.com/pedropauloat-sys/chatwoot-participating-inbox)
 
-## ✉️ Contatos:
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-paulo-andrade-tannus/)
-[![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedropaulotannus29@gmail.com)
+<img width="100%" src="./matrix-banner.svg"/>
