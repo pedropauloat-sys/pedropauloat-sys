@@ -21,10 +21,10 @@ Profissional multidisciplinar na interseção entre **Engenharia de Software, Ci
 
 ## ⚙️ Linguagens, Ferramentas e Skills:
 
-![n8n](https://img.shields.io/badge/n8n-%23EA4F4F.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![n8n](https://img.shields.io/badge/n8n-%23EA4F4F.svg?style=for-the-badge&logo=n8n&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
