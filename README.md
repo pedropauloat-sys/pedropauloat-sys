@@ -23,7 +23,6 @@ Profissional multidisciplinar na interseção entre **Engenharia de Software, Ci
 
 ## ⚙️ Linguagens, Ferramentas e Skills:
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-%23EA4F4F.svg?style=for-the-badge&logo=n8n&logoColor=white)
@@ -50,7 +49,7 @@ Profissional multidisciplinar na interseção entre **Engenharia de Software, Ci
 
 ## 🏆 Projetos em Destaque:
 
-[![Buttons Manager](https://github-readme-stats.vercel.app/api/pin/?username=pedropauloat-sys&repo=chatwoot-custom-button-builder&theme=dark&bg_color=050a15&title_color=00F9F0&icon_color=00F9F0&text_color=FFFFFF)](https://github.com/pedropauloat-sys/chatwoot-custom-button-builder)
-[![Participating Inbox](https://github-readme-stats.vercel.app/api/pin/?username=pedropauloat-sys&repo=chatwoot-participating-inbox&theme=dark&bg_color=050a15&title_color=00F9F0&icon_color=00F9F0&text_color=FFFFFF)](https://github.com/pedropauloat-sys/chatwoot-participating-inbox)
+[![Buttons Manager](https://github-readme-stats.vercel.app/api/pin/?username=pedropauloat-sys&repo=chatwoot-custom-button-builder&theme=dark&bg_color=050a15&title_color=00F9F0&icon_color=00F9F0&text_color=FFFFFF)]
+[![Participating Inbox](https://github-readme-stats.vercel.app/api/pin/?username=pedropauloat-sys&repo=chatwoot-participating-inbox&theme=dark&bg_color=050a15&title_color=00F9F0&icon_color=00F9F0&text_color=FFFFFF)
 
 <img width="100%" src="./matrix-banner.svg"/>
